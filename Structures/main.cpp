@@ -1,3 +1,4 @@
+/*  https://ravesli.com/urok-61-struktury/    */
 #include <iostream>     //для ввода-вывода
 #include <Windows.h>    //для русского языка
 //using namespace std;
